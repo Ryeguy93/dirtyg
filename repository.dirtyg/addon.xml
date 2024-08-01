@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.dirtyg" name="[COLOR hotpink]Dirty-G Repository[/COLOR]" version="1.0.1" provider-name="G-Man">
+    <extension point="xbmc.addon.repository" name="Dirty-G Repository">
+        <dir>
+            <info compressed="false">file:///C:/Users/God/Downloads/1/dirtyg/repository.dirtyg/addons.xml</info>
+            <checksum>file:///C:/Users/God/Downloads/1/dirtyg/repository.dirtyg/addons.xml.md5</checksum>
+            <datadir zip="true">file:///C:/Users/God/Downloads/1/dirtyg/repository.dirtyg/zips/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://github.com/dobbelina/repository.dobbelina/blob/master/repository.dobbelina/addons.xml</info>
+            <checksum>https://github.com/dobbelina/repository.dobbelina/blob/master/repository.dobbelina/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/dobbelina/repository.dobbelina/tree/master/repository.dobbelina/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://github.com/Vashiel/repository.adulthideout/raw/master/addons.xml</info>
+            <checksum>https://github.com/Vashiel/repository.adulthideout/raw/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/Vashiel/repository.adulthideout/raw/master/zips</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://fr33p0rt.github.io/kodi-repository.fr33p0rt/repository.fr33p0rt/addons.xml</info>
+            <checksum>https://fr33p0rt.github.io/kodi-repository.fr33p0rt/repository.fr33p0rt/addons.xml.md5</checksum>
+            <datadir zip="true">https://fr33p0rt.github.io/kodi-repository.fr33p0rt/repository.fr33p0rt/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://github.com/Gujal00/smrzips/blob/master/addons.xml</info>
+            <checksum>https://github.com/Gujal00/smrzips/blob/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/Gujal00/smrzips/tree/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Dirty-G Repo</summary>
+        <description>A collection of XXX Add-ons for Mature Viewers Only.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
